@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: pink;
+    text-align: center;
+}
+
+body {
+    color:white;
+    background-image: url(full-bloom.png);
+}
+
+.btn.btn-primary.btn-lg {
+    background-color: lightgray;
+    border-color:white
+
+}
