@@ -1,6 +1,8 @@
 .jumbotron {
     background-color: pink;
     text-align: center;
+    padding: 2rem 1rem;
+
 }
 
 body {
@@ -13,4 +15,21 @@ body {
     border-color:white;
     margin: 5px;
 
+}
+
+.card-content {
+    color: gray;
+}
+
+p {
+    color:gray
+}
+
+.nav-wrapper {
+    background-color: lightgrey;
+}
+
+.card {
+    margin: 15px;
+    width: 350px;
 }
