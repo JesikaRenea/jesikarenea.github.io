@@ -29,7 +29,16 @@ p {
     background-color: lightgrey;
 }
 
+#nav-mobile {
+    display: contents;
+}
+
+.hide-on-med-and-down {
+    display: contents;
+}
+
 .card {
     margin: 15px;
     width: 350px;
 }
+
