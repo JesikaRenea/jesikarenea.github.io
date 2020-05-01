@@ -2,7 +2,10 @@
     background-color: pink;
     text-align: center;
     padding: 2rem 1rem;
+}
 
+.container {
+    background-color: lightgrey;
 }
 
 body {
@@ -17,12 +20,21 @@ body {
 
 }
 
+.card {
+    float: left;
+}
+
 .card-content {
     color: gray;
+    height: 300px
 }
 
 p {
     color:gray
+}
+
+.card-text{
+    color: lightgray;
 }
 
 .nav-wrapper {
