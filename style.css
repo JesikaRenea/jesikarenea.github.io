@@ -4,6 +4,18 @@
     padding: 2rem 1rem;
 }
 
+.nav-wrapper {
+    background-color: lightgrey;
+}
+
+#nav-mobile {
+    display: contents;
+}
+
+.hide-on-med-and-down {
+    display: contents;
+}
+
 .container {
     background-color: lightgrey;
 }
@@ -20,9 +32,6 @@ body {
 
 }
 
-.card {
-    float: left;
-}
 
 .card-content {
     color: gray;
@@ -37,20 +46,9 @@ p {
     color: lightgray;
 }
 
-.nav-wrapper {
-    background-color: lightgrey;
-}
-
-#nav-mobile {
-    display: contents;
-}
-
-.hide-on-med-and-down {
-    display: contents;
-}
-
 .card {
     margin: 15px;
     width: 350px;
+    float: left;
 }
 
