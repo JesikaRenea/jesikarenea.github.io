@@ -25,17 +25,23 @@ body {
     background-image: url(full-bloom.png);
 }
 
-.btn.btn-primary.btn-lg {
+/* .btn.btn-primary.btn-lg {
     background-color: lightgray;
     border-color:white;
     margin: 5px;
+} */
 
+.btn, .btn:hover {
+    background-color: pink;
+    margin: 20px
 }
 
+#submitDefBtn {
+    color: gray
+}
 
 .card-content {
     color: gray;
-    height: 300px
 }
 
 p {
@@ -52,3 +58,6 @@ p {
     float: left;
 }
 
+.newDefContent {
+    height: 300px;
+}

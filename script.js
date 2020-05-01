@@ -14,7 +14,7 @@ $(document).ready(function () {
 
         // var newDefDiv = $("<div>").addClass("definitions-display");
         var newDefCard = $("<div>").addClass("card grey darken-1 def-card");
-        var newDefContent = $("<div>").addClass("card-content white-text");
+        var newDefContent = $("<div>").addClass("card-content newDefContent white-text");
 
         var termP = $("<span>").text(term).addClass("card-title term-title");
         var defP = $("<p>").text(definition).addClass("card-text def-card");
