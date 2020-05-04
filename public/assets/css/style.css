@@ -20,6 +20,22 @@
     background-color: lightgrey;
 }
 
+.index {
+    display: flex
+}
+
+.resume {
+    text-align: center;
+}
+
+hr{
+    margin-top: -10px;
+}
+
+h5 {
+    padding: 10px;
+}
+
 body {
     color:white;
     background-image: url(full-bloom.png);

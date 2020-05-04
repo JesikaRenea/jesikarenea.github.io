@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Jessica Hayes Design Portfolio and Knowledge Database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesikaRenea/jesikarenea.github.io.git"
+  },
+  "author": "Jessica Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesikaRenea/jesikarenea.github.io/issues"
+  },
+  "homepage": "https://github.com/JesikaRenea/jesikarenea.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11"
+  }
+}
