@@ -1,5 +1,5 @@
 .jumbotron {
-    background-color: pink;
+    background-color: #ffb48f;
     text-align: center;
     padding: 2rem 1rem;
 }
@@ -48,7 +48,7 @@ body {
 } */
 
 .btn, .btn:hover {
-    background-color: pink;
+    background-color: #ffb48f;
     margin: 20px
 }
 
