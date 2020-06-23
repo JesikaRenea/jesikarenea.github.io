@@ -1,0 +1,149 @@
+body {
+  color: black;
+  font-size: 14px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: 'Oxygen', sans-serif;}
+
+.App-link {
+  color: #61dafb;
+}
+
+.jumbotron {
+  background-color: #61DBFB;
+  text-align: center;
+  padding: 2rem 1rem;
+  color:white;
+  margin-bottom: 1rem;
+  border-radius: 0px;
+  font-family: 'Oxygen', sans-serif;}
+
+nav {
+  background-color: #61DBFB;
+}
+
+#nav-mobile {
+  display: contents;
+}
+
+.footer {
+  text-align: center;
+}
+
+.page-footer {
+  padding-top: 20px;
+  color: #fff;
+  background-color: #61DBFB;
+}
+
+h1, h3 {
+  color: #61DBFB;
+  margin: 20px;
+}
+
+
+main {
+  flex: 1 0 auto;
+}
+
+.media {
+  padding: 15px;
+}
+
+.btn {
+  margin: 10px;
+  background: darkgray;
+
+}
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin-right: 15px;
+  margin-top: 5px
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: white;
+  color:#61DBFB;
+}
+
+.fa-instagram {
+  background: white;
+  color:#61DBFB;
+}
+
+.fa-linkedin {
+  background: white;
+  color:#61DBFB;
+}
+
+.fa-github {
+  background: white;
+  color:#61DBFB;
+}
+
+.wrapper {
+  /* border: 1px solid grey; */
+  margin-bottom: 1rem;
+  height: 100%
+}
+
+.card {
+  height: 400px;
+  width: 520px;
+  margin: 15px;
+  padding: 5px;
+}
+
+.row {
+  margin: 0px;
+}
+
+hr {
+  margin: 0px;
+}
+
+/* .resume {
+  width: 100%;
+} */
+
+.resume-div {
+  text-align: center;
+}
+.header-image {
+  height: 250px;
+  /* width: 250px; */
+}
+
+.image-container {
+  text-align: center;
+  width: 100%;
+}
+
+.image-row {
+  text-align: center;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: medium;
+}
+
+#ucfPendant {
+  max-height: 350px;
+  padding: 15px;
+  margin-top: 20px;
+
+}

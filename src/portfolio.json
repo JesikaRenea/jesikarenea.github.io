@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "title": "Project 1: Local Wire",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/LocalWire_Project7.png",
+        "href": "https://zepcap.github.io/Project_One/",
+        "desc": "Local Wire was our first Group Project in the UCF Coding Bootcamp. In this Project, we demonstrated our basic skills of HTML, CSS, JS, API's, and AJAX calls."
+    },
+    {
+        "id": 2,
+        "title": "Project 2: Movie A-Lister",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/SS_Dashboard.png",
+        "href": "https://moviealister.herokuapp.com/",
+        "desc": "Movie A-Lister was our second Group Project in the UCF Coding Bootcamp. In this Project, we demonstrated our skills using MySql and Sequelize Database structure. This project implemented the MVC model, CRUD operations, and Handlebars as our view component. "
+    },    
+    {
+        "id": 13,
+        "title": "Project 3: In-The-Know: Learning App",
+        "image": "https://i.gyazo.com/c62ceacb96698c30e8281acc60fc038f.png",
+        "href": "https://in-the-know-for-you.herokuapp.com/",
+        "desc": "In-The-Know was our final Project in the UCF Coding Bootcamp. This app demonstrates all of our skills learned throughout our 6 month course. This is a Full-Stack MERN Application, using MongoDB, Express, React, and Node. This Application allows a User to save Categories of Skills they are interestd in learning in the future. The user can search the Web for information, articles, and tutorials, save them to a Database, and access the information when they are ready to grow their knowledge for the subject."
+    },    
+    {
+        "id": 3,
+        "title": "Random Password Generator",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/RPG_Project3.png",
+        "href": "https://jesikarenea.github.io/Password_Generator/",
+        "desc": "Random Password Generator, Assigment 3 in the UCF Coding Bootcamp Course. This simple app demonstrates our knowledge of HTML, CSS and JS"
+    },
+    {
+        "id": 4,
+        "title": "UCF Coding Quiz",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/CodeQuiz_Project4.png",
+        "href": "https://jesikarenea.github.io/Code_Quiz/",
+        "desc": "UCF Coding Quiz, Assignment 4 in the UCF Coding Bootcamp Course"
+    },
+    {
+        "id": 5,
+        "title": "Work Day Scheduler",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/WDS_Proj5.png",
+        "href": "https://jesikarenea.github.io/Work-Day-Scheduler/",
+        "desc": "Work Day Scheduler: Assignment 5 in the UCF Coding Bootcamp Course. This activity demonstrates our knowledge of Bootstrap, input forms, and writing to local storage."
+    },
+    {
+        "id": 6,
+        "title": "Weather Dashboard",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/Weather_Project6.png",
+        "href": "https://jesikarenea.github.io/Weather-Dashboard/",
+        "desc": "Random Password Generator: Assignment 6 in the UCF Coding Bootcamp Course. In this assignment we built from scratch using HTML, Bootstrap CSS, and Javascript. This application demonstrates our experience with jQuery, AJAX calls, and third-party API requests. Also implements writing to local storage functionality."
+    },
+    {
+        "id": 7,
+        "title": "Note Taker Application",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/NoteTaker.png",
+        "href": "https://arcane-reef-90778.herokuapp.com/notes",
+        "desc": "Note Taker App: Assignment 11 in the UCF Coding Bootcamp Course. This was our first assignment deployed to Heroku"
+    },
+    {
+        "id": 8,
+        "title": "Eat Da Burger Application",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/EatDaBurger_Week13.png",
+        "href": "https://strawberry-cobbler-42759.herokuapp.com/burgers",
+        "desc": "Eat Da Burger Application: Assignment 13 in the UCF Coding Bootcamp Course. This project demonstrated our experience with MySql, dynamically adding date to our DB, basic CRUD operations, Node, Express, Handlebars, and deployment to Heroku."
+    },
+    {
+        "id": 9,
+        "title": "Fitness Tracker Application",
+        "image": "https://i.gyazo.com/4e3f66273ea0d1836814285c3d8e249e.png",
+        "href": "https://fitness-tracker-jh1.herokuapp.com/?id=5eb1c665c3fda9001755a703",
+        "desc": "The Fitness Tracker Application, Assignment 17, required a Mongo database with a Mongoose schema, and handled routes with Express. "
+    },
+    {
+        "id": 10,
+        "title": "Progressive Web Application: Budget Tracker",
+        "image": "https://i.gyazo.com/0e2e9a6bb6640f2a77e658e051ec9cf8.png",
+        "href": "https://budget-tracker-jh.herokuapp.com/",
+        "desc": "The Budget Tracker Application, Assignment 18, demonstrates a PWA, that allows the user to track their budget while offline. This application implements a web manifest and service worker for functionality. "
+    },
+    {
+        "id": 11,
+        "title": "User Directory",
+        "image": "https://i.gyazo.com/bde8bea23c38ec7e67f72d410e36f0e4.png",
+        "href": "https://jesikarenea.github.io/React-User-Directory/",
+        "desc": "The User Directory Application, Assignment 19, required us to create an Employee User Directory with React. This assignment required us to break up our application into React Components, manage Component State, and respond to User Events."
+    },
+    {
+        "id": 12,
+        "title": "React: Google Book Search",
+        "image": "https://i.gyazo.com/fd88d6f23b7e4fb2a8ddb9d4bd8302a3.png",
+        "href": "https://react-book-search-jh.herokuapp.com/",
+        "desc": "Google Book Search Application was our final homework assignment, Assignment 21, in the UCF Coding Bootcamp. This assignment is an example of a MERN project, using MongoDB, and deployed to Heroku. This app allows users to search for books with the Google Books API, and save them to their read-list database. It implements external API call's and CRUD operations"
+    }
+
+
+]
